@@ -116,6 +116,3 @@ To reinforce your skills:
 3. Learn about `man` pages (`man ls`, `man mkdir`) to explore more command options.
 4. Practice combining commands to streamline file management tasks.
 
----
-
-If you want, I can also create a **visual cheat sheet** of the commands used in this exercise, which makes it much easier for students aged 12–18 to memorize and practice. Do you want me to create that?
