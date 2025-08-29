@@ -116,6 +116,3 @@ Congratulations on taking your first step into programming!
 3. Read more beginner tutorials at [LearnPython.org](https://www.learnpython.org/) or [Python.org](https://www.python.org/).
 4. Try creating multiple small Python programs to strengthen your understanding.
 
----
-
-If you want, I can also create a **visual diagram of this workflow** showing the terminal commands, file creation, and program execution to make it even easier for students to follow. Do you want me to do that next?
