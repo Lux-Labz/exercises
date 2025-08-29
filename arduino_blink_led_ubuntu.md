@@ -1,7 +1,3 @@
-Sure! Here's a fully structured training exercise based on your specifications:
-
----
-
 <!--
 {
   "ID": "9f2c4b7a1e3d4f6b8a0c2d1e3f4b5a6c",
