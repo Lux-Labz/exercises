@@ -103,6 +103,3 @@ To extend your learning:
 3. Learn how to use input sensors like buttons or potentiometers to control LED behavior.
 4. Experiment with different delay times and patterns to create simple LED animations.
 
----
-
-If you want, I can also create a **version with embedded diagrams showing the Arduino and LED pin locations** to make it even more beginner-friendly. Do you want me to do that next?
